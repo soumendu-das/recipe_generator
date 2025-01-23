@@ -22,7 +22,7 @@ with tab1:
      col1,col2=st.columns(2,vertical_alignment="center")
      
      with col1:
-         st.image("D:/project/images (14).jpeg",width=350)
+         st.image("images (14).jpeg",width=350)
      with col2:
        st.write("""Welcome to the Multi-Language Recipe Generator App!
 
